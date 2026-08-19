@@ -12,4 +12,5 @@ This repository documents my Java learning journey through small programs and ex
 - **Loops** — `for`, `while`, and `do-while`
 - **Arrays** — Creating, storing, and accessing array elements
 - **Methods** — Creating reusable methods, parameters, and return values
-- **Start of Student Grade Clalculator** 
+- **Start of Student Grade Clalculator**
+- **Constructor** — Practiced creating a parameterized constructor and passing values while creating an object.
