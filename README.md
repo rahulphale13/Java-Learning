@@ -25,3 +25,5 @@ This repository documents my Java learning journey through small programs and ex
 - **throw and throws** – Practiced manually throwing exceptions and declaring exceptions in methods
 - **Custom Exception** – Creating user-defined exceptions by extending the `Exception` class and handling them using `throw`, `throws`, and `try-catch`
 - **Wrapper Classes** – Using wrapper classes such as `Integer`, `Double`, `Character`, and `Boolean`, along with autoboxing and unboxing
+- **this Keyword** – Used `this` to refer to the current object and resolve naming conflicts between instance variables and parameters
+
