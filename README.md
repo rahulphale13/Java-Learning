@@ -14,3 +14,16 @@ This repository documents my Java learning journey through small programs and ex
 - **Methods** — Creating reusable methods, parameters, and return values
 - **Start of Student Grade Clalculator**
 - **Constructor** — Practiced creating a parameterized constructor and passing values while creating an object.
+- **this Keyword** – Used `this` to refer to the current object and resolve naming conflicts
+- **Inheritance** – Learned how child classes inherit properties and methods from parent classes using `extends`
+- **Method Overriding** – Practiced overriding parent class methods using `@Override`
+- **Polymorphism** – Learned runtime polymorphism using parent class references and method overriding
+- **Encapsulation** – Used `private` variables with getter and setter methods to protect data
+- **Abstraction** – Used abstract classes and abstract methods to hide implementation details
+- **Interface** – Created and implemented interfaces using the `implements` keyword
+- **Exception Handling** – Handled runtime errors using `try`, `catch`, and `finally`
+- **throw and throws** – Practiced manually throwing exceptions and declaring exceptions in methods
+- **Custom Exception** – Creating user-defined exceptions by extending the `Exception` class and handling them using `throw`, `throws`, and `try-catch`
+- **Wrapper Classes** – Using wrapper classes such as `Integer`, `Double`, `Character`, and `Boolean`, along with autoboxing and unboxing
+- **this Keyword** – Used `this` to refer to the current object and resolve naming conflicts between instance variables and parameters
+
